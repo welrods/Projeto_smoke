@@ -1,0 +1,21 @@
+c:\users\wellington.rsramos\documents\visual studio 2015\Projects\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.exe.config
+C:\Users\atila.dpribeiro\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.exe.config
+C:\Users\atila.dpribeiro\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.exe
+C:\Users\atila.dpribeiro\Desktop\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.pdb
+C:\Users\atila.dpribeiro\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.csprojResolveAssemblyReference.cache
+C:\Users\atila.dpribeiro\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.Form1.resources
+C:\Users\atila.dpribeiro\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.Properties.Resources.resources
+C:\Users\atila.dpribeiro\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.csproj.GenerateResource.Cache
+C:\Users\atila.dpribeiro\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.exe
+C:\Users\atila.dpribeiro\Desktop\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.pdb
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.exe.config
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.exe
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.pdb
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.exe
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.pdb
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.csprojResolveAssemblyReference.cache
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.Form1.resources
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.Form2.resources
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.Properties.Resources.resources
+C:\Users\atila.dpribeiro\MindTech\FrenteCaixa\FrenteCaixa\obj\Debug\FrenteCaixa.csproj.GenerateResource.Cache
+C:\Users\wellington.rsramos\Desktop\MindTech\FrenteCaixa\FrenteCaixa\bin\Debug\FrenteCaixa.exe.config
